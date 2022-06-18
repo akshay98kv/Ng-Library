@@ -1,4 +1,4 @@
-# ZebraLib Library App (MEAN)
+#Ng- Library App (MEAN)
 
 # Account Credentials :
 admin login emailid:useradmin@gmail.com
